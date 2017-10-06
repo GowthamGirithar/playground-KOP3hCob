@@ -36,6 +36,11 @@ The advantages of randome forest algorithm are,
 
 Let us consider we need to places the people likes based on few factors.
 
+ <B> Age </B> ![Train Diagram](pic1.PNG)     
+ <B> Gender </B> ![Test Diagram](pic2.PNG)
+  <B> Residence </B> ![Train Diagram](pic3.PNG)     
+ <B> Final Chart </B> ![Test Diagram](pic4.PNG)
+
 
 # Random Forest Demo
 
