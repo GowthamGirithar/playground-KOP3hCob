@@ -46,12 +46,14 @@ In this scenario, we want to find people favourite tourist places (Places 1,2,3 
  Gender based people votes in terms of percentage are given below
  ![Test Diagram](pic2.PNG)
 
+ <B> Residence </B>
  Residence is used as one of the factor detaermine people favouroite spot
- <B> Residence </B> ![Train Diagram](pic3.PNG)     
+ ![Train Diagram](pic3.PNG)     
   
- Based on the above sets, we will find the favourite spot for a guy whose age is 30 and stays in metro.
- <B> Final Chart </B> ![Test Diagram](pic4.PNG)
- The final chart describes that place 1 he likes 70 % and place 2 is 20% and 6% may be place 3.
+  <B> Final Chart </B>
+  Based on the above sets, we will find the favourite spot for a guy whose age is 30 and stays in metro.
+  ![Test Diagram](pic4.PNG)
+  The final chart describes that place 1 he likes 70 % and place 2 is 20% and 6% may be place 3.
 
 
 # Random Forest Demo
