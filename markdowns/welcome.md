@@ -59,12 +59,15 @@ In this scenario, we want to find people favorite tourist places (Places 1,2,3 a
 
 # Random Forest Demo
 
-@[Naive Bayes Demo]({"stubs": ["src/main/java/com/gg/ml/RandomForestDemo.java"], "command": "com.gg.ml.RandomForestDemoTest#test"})
+@[Random Forest Demo]({"stubs": ["src/main/java/com/gg/ml/RandomForestDemo.java"], "command": "com.gg.ml.RandomForestDemoTest#test"})
 
 
 # Code Explanation
 
-In this above sample code, we have used Random Forest classifier of weka. We can set the number of trees it must breakup for the features we have given as training set.
+In this above sample code, we have used Random Forest classifier of weka. We can set the number of trees it must breakup for the features we have given as training set.Please dont take the data considered here for executing the class files.Becuase we can predict learn more with large data sets only.
+
+Note: Example case study data and demo file data are different.
+
 
 
 
