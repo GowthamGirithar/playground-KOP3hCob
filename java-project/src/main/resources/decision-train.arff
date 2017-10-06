@@ -1,18 +1,24 @@
 @relation decision.symbolic
 
-@attribute country {USA, Europe, Australia,Brazil}
-@attribute bigstar {yes,no}
-@attribute genre {scifi, comedy ,romance}
-@attribute result {Success, Failure}
+@attribute age {18less, 20-40, 40plus}
+@attribute residence {yes,no}
+@attribute gender {Male,Female}
+@attribute Place {Place1, Place2, Place3}
 
 @data
-USA,	yes,	scifi,	Success
-USA,	no	,comedy,	Failure
-USA,	yes,	comedy,	Success
-Europe,	no,	comedy,	Success
-Europe,	yes	,scifi,	Failure
-Europe,	yes,	romance,	Failure
-Australia,	yes,	comedy,	Failure
-Brazil,	no	,scifi	,Failure
-Europe,	yes	,comedy,	Success
-USA,	yes	,comedy,	Success
+18less,yes,Male,Place1
+18,yes,Male,Place1
+18,yes,Male,Place1
+18,yes,Male,Place1
+18,yes,Male,Place1
+20-40,yes,Male,Place1
+20-40,yes,Male,Place1
+20-40,yes,Male,Place1
+20-40,yes,Male,Place1
+20-40,yes,Male,Place1
+20-40,yes,Male,Place2
+20-40,yes,Male,Place2
+18,yes,Male,Place2
+18,yes,Male,Place2
+18,yes,Male,Place3
+20-40,yes,Male,Place3
