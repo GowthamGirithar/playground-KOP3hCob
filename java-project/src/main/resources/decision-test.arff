@@ -7,10 +7,10 @@
 
 @data
 18less,yes,Male,Place1
-18,yes,Male,Place1
+18less,yes,Male,Place1
 20-40,yes,Male,Place1
 20-40,yes,Male,Place1
 20-40,yes,Male,Place2
-18,yes,Male,Place2
-18,yes,Male,Place3
+18less,yes,Male,Place2
+18less,yes,Male,Place3
 20-40,yes,Male,Place3
