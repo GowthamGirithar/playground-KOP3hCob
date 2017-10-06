@@ -4,12 +4,12 @@ import java.io.File;
 
 import weka.classifiers.Classifier;
 import weka.classifiers.Evaluation;
-import weka.classifiers.bayes.NaiveBayesMultinomial;
 import weka.core.Instances;
 import weka.core.converters.ArffLoader;
 import weka.filters.Filter;
 import weka.filters.unsupervised.attribute.StringToWordVector;
-
+import java.io.IOException;
+import weka.classifiers.trees.RandomForest;
 /**
  * @author Gowtham Girithar Srirangasamy
  *
