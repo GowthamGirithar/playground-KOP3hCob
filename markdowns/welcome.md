@@ -32,14 +32,13 @@ The advantages of randome forest algorithm are,
 
 4. It run efficiently on large databases
 
-
-
-
 # Random Forest Demo
 
 @[Naive Bayes Demo]({"stubs": ["src/main/java/com/gg/ml/RandomForestDemo.java"], "command": "com.gg.ml.RandomForestDemoTest#test"})
 
 
 # Code Explanation
+
+In this above sample code, we have used RandomForest classifier of weka . We can set the number of trees it have to breakup for the features we have given as traing set.
 
 
