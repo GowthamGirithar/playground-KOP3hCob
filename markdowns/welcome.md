@@ -1,4 +1,4 @@
-# Machine Learning with Java - Part 5 (Random Forest)
+# Machine Learning with Java - Part 6 (Random Forest)
 
 In my previous articles, we have discussed about  [Linear Regression](https://tech.io/playgrounds/3771/machine-learning-with-java---part-1-linear-regression) , [Logistic Regression](https://tech.io/playgrounds/34a7ecd0a4487577f516d92548af66891284/machine-learning-with-java---part-2-logistic-regression) , [Nearest Neighbor](https://tech.io/playgrounds/5439/machine-learning-with-java---part-3-k-nearest-neighbor),[Decision Tree](https://tech.io/playgrounds/5844/machine-learning-with-java---part-4-decision-tree) and [Naive Bayes](https://tech.io/playgrounds/6734/machine-learning-with-java---part-5-naive-bayes) .In this article, we are going to discuss about the most important classification algorithm which is Random Forest Algorithm.
 
