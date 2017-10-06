@@ -32,6 +32,11 @@ The advantages of randome forest algorithm are,
 
 4. It run efficiently on large databases
 
+# CaseStudy
+
+Let us consider we need to places the people likes based on few factors.
+
+
 # Random Forest Demo
 
 @[Naive Bayes Demo]({"stubs": ["src/main/java/com/gg/ml/RandomForestDemo.java"], "command": "com.gg.ml.RandomForestDemoTest#test"})
