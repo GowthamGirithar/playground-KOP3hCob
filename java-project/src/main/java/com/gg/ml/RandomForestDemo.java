@@ -22,8 +22,8 @@ public class RandomForestDemo {
 
 	/** file names are defined*/
 	public static final String TRAINING_DATA_SET_FILENAME="decision-train.arff";
-	public static final String TESTING_DATA_SET_FILENAME="decision-train.arff";
-	public static final String PREDICTION_DATA_SET_FILENAME="decision-confused.arff";
+	public static final String TESTING_DATA_SET_FILENAME="decision-test.arff";
+	
 
 	/**
 	 * This method is to load the data set.
