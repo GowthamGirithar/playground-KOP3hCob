@@ -34,12 +34,24 @@ The advantages of randome forest algorithm are,
 
 # CaseStudy
 
-Let us consider we need to places the people likes based on few factors.
+Let us consider we need to people favourite spots based on few factors.
 
- <B> Age </B> ![Train Diagram](pic1.PNG)     
- <B> Gender </B> ![Test Diagram](pic2.PNG)
-  <B> Residence </B> ![Train Diagram](pic3.PNG)     
+In this scenario, we want to find people favourite tourist places (Places 1,2,3 are the three given places) and based on the high percentage we will decide. we can also calculate based on likes.
+
+ <B> Age </B>
+ In this based on age , we are getting the data in terms of percentage.
+ ![Train Diagram](pic1.PNG) 
+ 
+ <B> Gender </B>
+ Gender based people votes in terms of percentage are given below
+ ![Test Diagram](pic2.PNG)
+
+ Residence is used as one of the factor detaermine people favouroite spot
+ <B> Residence </B> ![Train Diagram](pic3.PNG)     
+  
+ Based on the above sets, we will find the favourite spot for a guy whose age is 30 and stays in metro.
  <B> Final Chart </B> ![Test Diagram](pic4.PNG)
+ The final chart describes that place 1 he likes 70 % and place 2 is 20% and 6% may be place 3.
 
 
 # Random Forest Demo
