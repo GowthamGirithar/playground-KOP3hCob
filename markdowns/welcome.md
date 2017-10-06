@@ -1,18 +1,19 @@
 # Machine Learning with Java - Part 5 (Random Forest)
 
-In my previous articles we have discussed about <>  .In this article, we are going to discuss about most important classification algorithm which is Random Forest Algorithm.
+In my previous articles we have discussed about  [Linear Regression](https://tech.io/playgrounds/3771/machine-learning-with-java---part-1-linear-regression) , [Logistic Regression](https://tech.io/playgrounds/34a7ecd0a4487577f516d92548af66891284/machine-learning-with-java---part-2-logistic-regression) , [Nearest Neighbor](https://tech.io/playgrounds/5439/machine-learning-with-java---part-3-k-nearest-neighbor),[Decision Tree](https://tech.io/playgrounds/5844/machine-learning-with-java---part-4-decision-tree) and [Naive Bayes](https://tech.io/playgrounds/6734/machine-learning-with-java---part-5-naive-bayes) .In this article, we are going to discuss about most important classification algorithm which is Random Forest Algorithm.
 
 # Random Forest 
 
 Random forest is a trademark term for an ensemble classifier that consists of many decision trees and outputs the class that is the mode of the classes output by individual trees. Random forests are collections of trees, all slightly different.
 It belongs to supervised learning.
+
 Random Forest algorithm can be used for both the classification and regression kind of problems.You might be wondered to know how an single algorithm can be used for both classification and regression kind of problems. We will discuss in detail below.
 
 # Difference with Decision Tree
 
 In Random Forest , we are creating more number of decision trees but the construction of decision is not with information gain and gini index approach.The process of finding the root node and splitting the features node will happen randomly.
 
-Let us consider you are planning to go for a trip and asking suggestions from friend .Your friend will ask some deatils from you to decide which places you will like and which are all places you may not like based on the deatils he got from you. In this case , decision tree will be used to predict.
+Let us consider, you are planning to go for a trip and asking suggestions from friend .Your friend will ask some deatils from you to decide which places you will like and which are all places you may not like based on the deatils he got from you. In this case , decision tree will be used to predict.
 
 The above case is a decision tree , your friend used the answers given by you to predict your likes and moreover final decision is taken by single person using the only one decision tree.
 
@@ -64,5 +65,6 @@ In this scenario, we want to find people favourite tourist places (Places 1,2,3 
 # Code Explanation
 
 In this above sample code, we have used RandomForest classifier of weka . We can set the number of trees it have to breakup for the features we have given as traing set.
+
 
 
